@@ -1,0 +1,6 @@
+@AIEmailGeneratorBackend_HostAddress = http://localhost:5076
+
+GET {{AIEmailGeneratorBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
